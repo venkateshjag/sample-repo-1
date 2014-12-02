@@ -1,2 +1,6 @@
 seb
+<<<<<<< HEAD
 nic
+=======
+dude what
+>>>>>>> FETCH_HEAD
